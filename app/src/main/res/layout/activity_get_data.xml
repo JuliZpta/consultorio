@@ -26,7 +26,7 @@
 
     <TableLayout
         android:id="@+id/tlcitas"
-        style="@style/Base.Theme.CitasCentroClinico"
+        style="@style/Base.Theme.ReservaSalud"
         android:layout_width="376dp"
         android:layout_height="142dp"
         app:layout_constraintBottom_toBottomOf="parent"
